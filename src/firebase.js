@@ -12,12 +12,12 @@ import {
 } from "firebase/firestore";
 
 const firebaseConfig = {
-  apiKey: "여기에-API키",
-  authDomain: "여기에-프로젝트ID.firebaseapp.com",
-  projectId: "여기에-프로젝트ID",
-  storageBucket: "여기에-프로젝트ID.firebasestorage.app",
-  messagingSenderId: "여기에-숫자",
-  appId: "여기에-앱ID"
+  apiKey: "AIzaSyClSG6pXyQQ2-ZtPlaX9Ls459AO5x0g1uA",
+  authDomain: "wonjugo-19c4f.firebaseapp.com",
+  projectId: "wonjugo-19c4f",
+  storageBucket: "wonjugo-19c4f.firebasestorage.app",
+  messagingSenderId: "291258015031",
+  appId: "1:291258015031:web:cf9726f9bc86c34be2ceb2",
 };
 
 const app = initializeApp(firebaseConfig);
